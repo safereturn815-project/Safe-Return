@@ -1,6 +1,6 @@
-# Safe Return – Face Recognition Frontend
+# Safe Return – Face Recognition 
 
-This project contains the frontend for the Safe Return app, built for identifying and tracking missing persons using face recognition.
+This project contains the Safe Return application, built for identifying and tracking missing persons using face recognition.
 
 ## Running the code
 
